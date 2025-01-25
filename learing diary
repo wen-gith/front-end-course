@@ -1,1 +1,5 @@
-
+1. Git
+ - git fetch -> fetch info on new changes in the repository
+ - git status -> view changes
+ - git commit -> stage made changes for push
+ - git push -> push changes to repository
